@@ -10,8 +10,8 @@ spiders:
 
 To run this spyder do:
 
-''scrapy crawl udacity''
+`scrapy crawl udacity`
 
 To run and save results in json do:
 
-''scrapy crawl udacity -o udacity.json''
+`scrapy crawl udacity -o udacity.json`
